@@ -1,0 +1,1 @@
+_username = data.decode('utf-8').split(" ")[0]
